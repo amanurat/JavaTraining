@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTraining.iml" filepath="$PROJECT_DIR$/JavaTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MavenJaxWS/com.am.jaxws.iml" filepath="$PROJECT_DIR$/../MavenJaxWS/com.am.jaxws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ktb-npa/ktb-npa.iml" filepath="$PROJECT_DIR$/../ktb-npa/ktb-npa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ktb-npa/ktb-npa-grailsPlugins.iml" filepath="$PROJECT_DIR$/../ktb-npa/ktb-npa-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
